@@ -1,2 +1,10 @@
-# python-tic-tac-toe
-A simple Tkinter-based Python game where players alternate marking a 3x3 grid with 'X' or 'O'. The game ends with a win (three in a row) or a draw when the grid is full. Includes options to restart the game and displays a message box with the result.
+# Tic-Tac-Toe Game
+
+A simple graphical Tic-Tac-Toe game built with Tkinter in Python.
+
+## Features
+
+- **Two-player mode**: Play against another player.
+- **Alternate turns**: Switch between 'X' and 'O'.
+- **Game outcome detection**: Detects wins or draws automatically.
+- **Restart option**: Restart the game or close the application.
